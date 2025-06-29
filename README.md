@@ -58,7 +58,7 @@ The system was built with clean separation of concerns (DAO, Service, UI), mimic
 ---
 
 ## 🏗️ Project Structure
-
+```
 src/
 │
 ├── model/ # Domain models (Product, Sale, User)
@@ -67,7 +67,7 @@ src/
 ├── ui/ # Java Swing UI Panels
 ├── util/ # Logging, PDF export, session management
 └── main/ # Entry point and UI initialization
-
+```
 ---
 
 ## 🚀 How to Run
